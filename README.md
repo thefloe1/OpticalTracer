@@ -2,6 +2,8 @@
 Work in progress for a simple optical raytracer supporting mirrors, lenses, prisms and gratings
 
 Requires PyQt5
+## Screenshot
+![Screenshot](./samples/screenshot.png)
 
 ## Examples
 ### Lens Imaging:
