@@ -1,0 +1,99 @@
+[
+  {
+    "type": "GratingElement",
+    "pos": [
+      500.0,
+      -450.0
+    ],
+    "rot": 65.5,
+    "mat": "BK7",
+    "lines": 1739.0,
+    "height": 1500.0,
+    "thickness": 60
+  },
+  {
+    "type": "MirrorElement",
+    "pos": [
+      -400.0,
+      171.0
+    ],
+    "rot": 180.0,
+    "mat": "BK7",
+    "r1": null,
+    "r2": null,
+    "thickness": 30,
+    "height": 254,
+    "ref1": 1.0,
+    "ref2": 1.0,
+    "tran1": 0.0,
+    "tran2": 0.0
+  },
+  {
+    "type": "MirrorElement",
+    "pos": [
+      -168.0,
+      400.0
+    ],
+    "rot": 90.0,
+    "mat": "BK7",
+    "r1": null,
+    "r2": null,
+    "thickness": 30,
+    "height": 254,
+    "ref1": 1.0,
+    "ref2": 1.0,
+    "tran1": 0.0,
+    "tran2": 0.0
+  },
+  {
+    "type": "BeamBlockElement",
+    "pos": [
+      -600.0,
+      -650.0
+    ],
+    "rot": 5.0,
+    "mat": "BK7",
+    "r1": null,
+    "r2": null,
+    "thickness": 30,
+    "height": 500.0,
+    "ref1": 0.0,
+    "ref2": 0.0,
+    "tran1": 0.0,
+    "tran2": 0.0
+  },
+  {
+    "type": "RayElement",
+    "pos": [
+      -500.0,
+      -250.0
+    ],
+    "rot": 5.0,
+    "intensity": 1.0,
+    "wl": [
+      1.02,
+      1.03,
+      1.04
+    ],
+    "color": [
+      [
+        6,
+        103,
+        249,
+        191
+      ],
+      [
+        55,
+        249,
+        6,
+        191
+      ],
+      [
+        249,
+        6,
+        6,
+        191
+      ]
+    ]
+  }
+]

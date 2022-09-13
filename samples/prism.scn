@@ -1,0 +1,74 @@
+[
+  {
+    "type": "BeamBlockElement",
+    "pos": [
+      1200.0,
+      0.0
+    ],
+    "rot": 0.0,
+    "mat": "BK7",
+    "ref1": 0,
+    "ref2": 0,
+    "tran1": 0,
+    "tran2": 0,
+    "thickness": 30,
+    "height": 254,
+    "r1": null,
+    "r2": null
+  },
+  {
+    "type": "PrismElement",
+    "pos": [
+      975.0,
+      75.0
+    ],
+    "rot": -5.0,
+    "mat": "CaF2",
+    "base": 172,
+    "apex": 69.9
+  },
+  {
+    "type": "PrismElement",
+    "pos": [
+      600.0,
+      309.0
+    ],
+    "rot": 175.0,
+    "mat": "CaF2",
+    "base": 172,
+    "apex": 69.9
+  },
+  {
+    "type": "PrismElement",
+    "pos": [
+      350.0,
+      310.0
+    ],
+    "rot": 185.0,
+    "mat": "CaF2",
+    "base": 172,
+    "apex": 69.9
+  },
+  {
+    "type": "PrismElement",
+    "pos": [
+      -25.0,
+      75.0
+    ],
+    "rot": 5.0,
+    "mat": "CaF2",
+    "base": 172,
+    "apex": 69.9
+  },
+  {
+    "type": "RayElement",
+    "pos": [
+      -200.0,
+      0.0
+    ],
+    "rot": 0.0,
+    "intensity": 1.0,
+    "wl": [0.83, 0.93, 1.03, 1.13, 1.23],
+    "color": null
+  }
+]
