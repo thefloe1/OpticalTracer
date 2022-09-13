@@ -1,0 +1,150 @@
+[
+  {
+    "type": "BeamBlockElement",
+    "pos": [
+      1275.0,
+      -100.0
+    ],
+    "rot": 0.0,
+    "mat": "BK7",
+    "r1": null,
+    "r2": null,
+    "thickness": 30,
+    "height": 254,
+    "ref1": 0.0,
+    "ref2": 0.0,
+    "tran1": 0.0,
+    "tran2": 0.0
+  },
+  {
+    "type": "LensElement",
+    "pos": [
+      850.0,
+      -100.0
+    ],
+    "rot": 0.0,
+    "mat": "BK7",
+    "r1": 500.0,
+    "r2": 500.0,
+    "thickness": 20,
+    "height": 254
+  },
+  {
+    "type": "LensElement",
+    "pos": [
+      -150.0,
+      -100.0
+    ],
+    "rot": 0.0,
+    "mat": "BK7",
+    "r1": 500.0,
+    "r2": 500.0,
+    "thickness": 20,
+    "height": 254
+  },
+  {
+    "type": "RayElement",
+    "pos": [
+      -400.0,
+      -50.0
+    ],
+    "rot": 0.0,
+    "intensity": 1.0,
+    "wl": [
+      1.0
+    ],
+    "arrows": false,
+    "color": [
+      [
+        249,
+        6,
+        6,
+        191
+      ]
+    ]
+  },
+  {
+    "type": "RayElement",
+    "pos": [
+      -400.0,
+      -100.0
+    ],
+    "rot": 0.0,
+    "intensity": 1.0,
+    "wl": [
+      1.0
+    ],
+    "arrows": false,
+    "color": [
+      [
+        249,
+        6,
+        6,
+        191
+      ]
+    ]
+  },
+  {
+    "type": "RayElement",
+    "pos": [
+      -400.0,
+      -75.0
+    ],
+    "rot": 0.0,
+    "intensity": 1.0,
+    "wl": [
+      1.0
+    ],
+    "arrows": false,
+    "color": [
+      [
+        249,
+        6,
+        6,
+        191
+      ]
+    ]
+  },
+  {
+    "type": "RayElement",
+    "pos": [
+      -400.0,
+      -125.0
+    ],
+    "rot": 0.0,
+    "intensity": 1.0,
+    "wl": [
+      1.0
+    ],
+    "arrows": false,
+    "color": [
+      [
+        249,
+        6,
+        6,
+        191
+      ]
+    ]
+  },
+  {
+    "type": "RayElement",
+    "pos": [
+      -400.0,
+      -150.0
+    ],
+    "rot": 0.0,
+    "intensity": 1.0,
+    "wl": [
+      1.0
+    ],
+    "arrows": false,
+    "color": [
+      [
+        249,
+        6,
+        6,
+        191
+      ]
+    ]
+  }
+]
